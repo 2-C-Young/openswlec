@@ -1,3 +1,3 @@
 # openswlec
-open sw lecture\n
+open sw lecture
 **Hello world**
